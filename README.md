@@ -12,3 +12,5 @@ Book I'm reading, by following all the examples
 2. ex8: format() does not mutation the variables value
 
 3. We put and end=' ' at the end of each print, this tells print to not end the line with a newline character and go to the next line.
+
+4. `from sys import argv` is for programming arguments and input is for user interaction.
