@@ -7,3 +7,6 @@ Book I'm reading, by following all the examples
 ### Notes
 
 1. Not commit the lib folder - since it contains libraries and site packages. Usual done by freezing the packages installed to lib.txt and installing them with pip install by giving the lib.txt. Lib.txt acts as the manifest for the project containing all the dependencies for the project.
+
+
+2. ex8: format() does not mutation the variables value
