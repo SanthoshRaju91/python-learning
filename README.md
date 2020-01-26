@@ -14,3 +14,5 @@ Book I'm reading, by following all the examples
 3. We put and end=' ' at the end of each print, this tells print to not end the line with a newline character and go to the next line.
 
 4. `from sys import argv` is for programming arguments and input is for user interaction.
+
+5. `*args` is used for gathering all arguments passed to the function into a single variable args and later can be used to unpack it like `arg1, arg2 = args`.
